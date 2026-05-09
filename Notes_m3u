@@ -1,4 +1,2 @@
-#EXTINF:-1 tvg-id="RealMadridTV.es@SD",Real Madrid TV (404p)
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="BarcaTV.es@SD",Barca TV
-https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+#EXTINF:-1 tvg-id="BabAlHara.sa@SD",Bab Al Hara (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
